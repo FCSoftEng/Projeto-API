@@ -1,0 +1,7 @@
+C:\Users\FCSoftEng\source\repos\Projeto API\Projeto API\obj\Debug\net8.0\Projeto API.csproj.AssemblyReference.cache
+C:\Users\FCSoftEng\source\repos\Projeto API\Projeto API\obj\Debug\net8.0\Projeto API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FCSoftEng\source\repos\Projeto API\Projeto API\obj\Debug\net8.0\Projeto API.AssemblyInfoInputs.cache
+C:\Users\FCSoftEng\source\repos\Projeto API\Projeto API\obj\Debug\net8.0\Projeto API.AssemblyInfo.cs
+C:\Users\FCSoftEng\source\repos\Projeto API\Projeto API\obj\Debug\net8.0\Projeto API.csproj.CoreCompileInputs.cache
+C:\Users\FCSoftEng\source\repos\Projeto API\Projeto API\obj\Debug\net8.0\Projeto API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\FCSoftEng\source\repos\Projeto API\Projeto API\obj\Debug\net8.0\Projeto API.MvcApplicationPartsAssemblyInfo.cache
